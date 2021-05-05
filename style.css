@@ -17,22 +17,27 @@ h1{
   font-size: 3em;
   text-align: center;
 }
-h2{
-  text-shadow: 0 0 2px black;
+p{
+  text-shadow: 0 0 1px black;
   font-family: Comfortaa;
   font-weight: 300;
   text-align: justify;
   font-size: 2em;
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
-p{
+h2{
   text-align: center;
   font-size: 2em;
   font-family: Comfortaa;
   font-weight:300;
 }
-
+ul{
+  font-family: Comfortaa;
+  font-weight: 300;
+  font-size: 1.5em;
+  font-style: oblique;
+}
 div{
   background:linear-gradient(#91c788,#433520);
   margin:10% 25%;
